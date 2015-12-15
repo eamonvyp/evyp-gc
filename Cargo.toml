@@ -1,0 +1,9 @@
+[package]
+name = "evyp-gc"
+version = "0.0.0"
+authors = ["Eamon Vyp <eamonvyp@gmail.com>"]
+description = "A simple unsafe garbage collector"
+repository = "https://github.com/eamonvyp/evyp-gc"
+readme = "README.md"
+keywords = ["garbage", "memory", "gc"]
+license = "MIT"
